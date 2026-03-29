@@ -1,0 +1,4 @@
+* { margin: 0; padding: 0; box-sizing: border-box; }
+html, body, #root { width: 100%; height: 100%; background: #000; overflow: hidden; }
+input::placeholder { color: #555; }
+::-webkit-scrollbar { display: none; }
